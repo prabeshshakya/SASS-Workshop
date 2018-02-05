@@ -8,11 +8,11 @@
 // With SMACSS, we divide our styles into fives categories: base, libs, modules, states, and utilities
 // ==========================================================================
 
-@import 'utilities/manifest';
+// @import 'utilities/manifest';
 
 /* Sass Compiled Css Code Start */
-@import 'base/manifest';
+// @import 'base/manifest';
 @import 'modules/manifest';
-@import 'libs/manifest';
-@import 'states/manifest';
+// @import 'libs/manifest';
+// @import 'states/manifest';
 @import 'styles';
